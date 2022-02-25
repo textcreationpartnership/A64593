@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Upon the present plagve at London and His Maiesties leaving the city</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64593</idno>
+            <idno type="STC">Wing U117</idno>
+            <idno type="STC">ESTC R27035</idno>
+            <idno type="EEBO-CITATION">09619209</idno>
+            <idno type="OCLC">ocm 09619209</idno>
+            <idno type="VID">43841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1344:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Upon the present plagve at London and His Maiesties leaving the city</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>"To the King upon his intending for Oxford": p. 4.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:43841:1"/>
+            <!-- PDF PAGE 31 -->
+            <head>Upon the Preſent PLAGVE AT LONDON AND His Maieſties Leaving The CITY.</head>
+            <lg>
+               <l>NOw quick as <hi>Lightning</hi> had our <hi>Thund'rers</hi> hand,</l>
+               <l>Puniſh'd a faithleſs and ungrateful Land:</l>
+               <l>[His every <hi>Cannon</hi> with a <hi>ſtronger Chain,</hi>
+               </l>
+               <l>Doing what <hi>Xerxes</hi> did <hi>attempt</hi> in vain.]</l>
+               <l>Now did the doubtful <hi>god</hi> of <hi>Seas</hi> lay down,</l>
+               <l>And yield his <hi>Trident</hi> to a <hi>Triple Crown:</hi>
+               </l>
+               <l>When lo, the <hi>greedy Earth</hi> (as if't had ta'en</l>
+               <l>Too bad Example from the <hi>Feaſted main</hi>)</l>
+               <l>Exhales light Vapours, and with ſtudious care,</l>
+               <l>Diſpatches <hi>nimble deaths</hi> through th' neigb'oring Aire;</l>
+               <l>And ſtraight theſe <hi>Cooks</hi> dreſs by the active <hi>heat</hi>
+               </l>
+               <l>Of a quick <hi>flame,</hi> the <hi>Gormandizers meat.</hi>
+               </l>
+               <l>This <hi>flame</hi> ſoon <hi>cools</hi> our <hi>Triumph,</hi> ſoon deſtroyes,</l>
+               <l>And dries our <hi>Ocean</hi> of ſwift <hi>ebbing</hi> joyes!</l>
+               <l>
+                  <hi>Joyes</hi> as <hi>Incoſtant,</hi> and as <hi>quickly</hi> gon,</l>
+               <l>As the <hi>unſetled Waves</hi> th' were <hi>rais</hi>'d upon.</l>
+            </lg>
+            <lg>
+               <l>Sure 'twas kind Providence that wiſely ſpy'd</l>
+               <l>The bad effect of o're ſuccesful Pride;</l>
+               <l>And knew <hi>ours</hi> was no leſs then if we meant,</l>
+               <l>T'enſlave <hi>thoſe Waters</hi> now <hi>'bove</hi> th' <hi>Firmament.</hi>
+               </l>
+               <pb n="2" facs="tcp:43841:2"/>
+               <!-- PDF PAGE 32 -->
+               <l>'Twas Providence that ſaw we had forgot</l>
+               <l>Heavens wonderful aſſiſtance, and like <hi>Lot,</hi>
+               </l>
+               <l>In <hi>floods</hi> of <hi>Drink</hi> (from <hi>flaming Deluge</hi> free]</l>
+               <l>Of paſt deliverance <hi>drown'd</hi> all memorie:</l>
+               <l>And therefore into <hi>Pyres</hi> our <hi>Bonefires</hi> turn,</l>
+               <l>And every <hi>Sack-bowl</hi> ſtraight becomes an <hi>Urn:</hi>
+               </l>
+               <l>
+                  <hi>Juſtice</hi> and <hi>Mercy,</hi> joyntly this <hi>Plague</hi> ſent,</l>
+               <l>Paſt ſins to <hi>puniſh,</hi> future to <hi>prevent.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I'm no <hi>Aruſpex,</hi> nor can I reveal</l>
+               <l>That 'tis the <hi>fervour</hi> of <hi>Fanatick Zeal</hi>
+               </l>
+               <l>Thus <hi>Inflames</hi> heaven; I'll not condemn the <hi>light</hi>
+               </l>
+               <l>Of wretched <hi>Quakers</hi> to Eternal <hi>night;</hi>
+               </l>
+               <l>Yet may <hi>without a Rapture,</hi> make this good,</l>
+               <l>That 'tis the <hi>diſtain'd Purple</hi> calls for <hi>blood:</hi>
+               </l>
+               <l>That 'tis the <hi>darkned luſtre</hi> of a <hi>Crown,</hi>
+               </l>
+               <l>Now draws from Heaven ſo <hi>black</hi> an Influence down;</l>
+               <l>And the three <hi>Daughters</hi> of <hi>Night</hi> thus combine,</l>
+               <l>To vindicate and <hi>cleer</hi> its <hi>Eclips'd</hi> ſhine.</l>
+               <l>This makes th' <hi>Inlightned</hi> imitate their <hi>flame,</hi>
+               </l>
+               <l>And <hi>trembling,</hi> merit their Uſurped <hi>Name;</hi>
+               </l>
+               <l>This makes all <hi>Sects</hi> turn <hi>Quakers,</hi> though (too late)</l>
+               <l>Ev'n they're <hi>Conformiſts</hi> to the <hi>common</hi> fate.</l>
+            </lg>
+            <lg>
+               <l>Blame not mad <hi>Schiſmaticks,</hi> with <hi>fiery rage,</hi>
+               </l>
+               <l>The <hi>cool Devotion</hi> of our <hi>frozen</hi> age.</l>
+               <l>But while you feel this <hi>Tyranny</hi> of Death,</l>
+               <l>Think to what <hi>Slavery</hi> you ſold your breath;</l>
+               <l>Think this <hi>diſorder</hi> only does repeat,</l>
+               <l>The <hi>Anarchy</hi> of your <hi>confounded State:</hi>
+               </l>
+               <l>And when you view the <hi>blewneſs</hi> of your skins,</l>
+               <l>Then curſe <hi>Scotch bonnets,</hi> and your <hi>Pious ſins.</hi>
+               </l>
+               <l>Sins ſo Importunate, that their lowd cries,</l>
+               <l>Drag <hi>Hell</hi> to <hi>Earth,</hi> and fright the wond'ring skies;</l>
+               <l>Make <hi>Judgement</hi> antedate the lateſt breath,</l>
+               <l>And puniſh with juſt <hi>flames</hi> on <hi>this ſide death.</hi>
+               </l>
+               <l>Yet every <hi>Dives,</hi> that did once command</l>
+               <l>The ſtore and plenty of our fruitful Land,</l>
+               <l>And <hi>wore Kings Purple,</hi> from <hi>this Hell</hi> retires;</l>
+               <l>
+                  <hi>Laza'rus</hi> alone's <hi>tormented</hi> in <hi>theſe fires.</hi>
+               </l>
+               <l>But ſure theſe torments are not his alone,</l>
+               <l>His <hi>obſcure</hi> miſeries <hi>o'recaſt</hi> the <hi>Throne.</hi>
+               </l>
+               <l>
+                  <pb n="3" facs="tcp:43841:2"/>
+                  <!-- PDF PAGE 32 -->
+Each <hi>Evil</hi> is the <hi>Kings,</hi> in a <hi>ſick</hi> ſtate,</l>
+               <l>Nor is <hi>His</hi> different from his <hi>Subjects,</hi> fate;</l>
+               <l>But what <hi>Death</hi> formerly, <hi>diſeaſe</hi> now brings,</l>
+               <l>The <hi>Beggars</hi> ſtate <hi>Co-equal</hi> to the <hi>Kings.</hi>
+               </l>
+               <l>And though his Sacred <hi>Majeſty</hi> now flies,</l>
+               <l>And does at <hi>diſtance</hi> chooſe to <hi>Sympathize</hi>
+               </l>
+               <l>His Subjects griefs, 'tis cauſe he would not have</l>
+               <l>A <hi>narrow Tomb</hi> become <hi>great Brittains</hi> grave:</l>
+               <l>He knew the Death that ſhall his Perſon ſlay,</l>
+               <l>Slaughters <hi>three Kingdoms</hi> in <hi>Epitome.</hi>
+               </l>
+               <l>Yet every <hi>bloody Tueſday</hi> does him kill,</l>
+               <l>And w'have a <hi>dead King</hi> in each <hi>weekly Bill;</hi>
+               </l>
+               <l>Who ſhews the Valour of his Princely breath,</l>
+               <l>Under the rigours of a <hi>lingring death:</hi>
+               </l>
+               <l>For where an end to growing woes <hi>Death</hi> gives,</l>
+               <l>He's moſt <hi>Couragious</hi> there that <hi>boldly lives.</hi>
+               </l>
+               <l>Nor is it <hi>fear,</hi> but <hi>prudence</hi> now to flie,</l>
+               <l>When valiantly to <hi>Conquer</hi> is to <hi>die.</hi>
+               </l>
+               <l>The <hi>Parthian King</hi> that ſo retir'dly dwells,</l>
+               <l>And turns his ſtately <hi>Pallaces</hi> to <hi>Cells,</hi>
+               </l>
+               <l>Had here his recluſe <hi>Majeſty</hi> reſign'd,</l>
+               <l>Nor thought it <hi>liberty</hi> to be <hi>confin'd:</hi>
+               </l>
+               <l>The <hi>Parthian</hi> here would to his <hi>old ſleight fly,</hi>
+               </l>
+               <l>And by <hi>Retreat</hi> beſt foyl this <hi>Enemy.</hi>
+               </l>
+               <l>This does our <hi>King,</hi> and is once more content,</l>
+               <l>To ſuffer <hi>'midſt his Subjects, Baniſhment;</hi>
+               </l>
+               <l>For a more near Reſentment, I dare ſay,</l>
+               <l>Now ſeiz'd His mighty Soul, then on that day,</l>
+               <l>That fatal day; when obſcur'd <hi>Majeſty</hi>
+               </l>
+               <l>
+                  <hi>Sorrow</hi> leſs <hi>clouded</hi> then a <hi>ſhady Tree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He from His <hi>Realm</hi> now does himſelf abſent;</l>
+               <l>Since <hi>London</hi>'s <hi>England</hi> in a ſmaller Print:</l>
+               <l>And truly too, for if the narrow ſpace</l>
+               <l>Of this one City, keeps what e're's the Grace</l>
+               <l>And Power of <hi>England,</hi> and we juſtly ſtile</l>
+               <l>
+                  <hi>London,</hi> the <hi>Strength</hi> and <hi>Treaſure</hi> of our <hi>Iſle;</hi>
+               </l>
+               <l>The <hi>Spaniſh Error</hi> well may <hi>pardon'd</hi> be:</l>
+               <l>
+                  <hi>England in London</hi>'s <hi>true Geography.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:43841:3"/>
+            <!-- PDF PAGE 33 -->
+            <head>TO THE KING, <hi>Upon His Intending for</hi> OXFORD.</head>
+            <l>BUt by your Preſence, <hi>Mighty Sir,</hi> ſince You</l>
+            <l>Intend to <hi>Honour,</hi> and <hi>ſecure Us</hi> too;</l>
+            <l>And here ſeek <hi>Life</hi> and Safety, whence ſome juſt</l>
+            <l>and happy Pen muſt <hi>Eternize</hi> Your duſt;</l>
+            <l>Amidſt the trouble World, we muſt confeſs,</l>
+            <l>
+               <hi>Great Brittain</hi>'s Miſery's Our <hi>Great</hi> Happineſs.</l>
+            <l>Bleſt by the <hi>Influence</hi> of every Gem</l>
+            <l>That ſparkles in your <hi>Starry</hi> Diadem,</l>
+            <l>While others blame <hi>Malignant Heaven,</hi> we'll ſay,</l>
+            <l>To Us the <hi>Planets wander the right way.</hi>
+            </l>
+            <l>Since 'tis the <hi>Muſes God,</hi> that poures forth ſtreams</l>
+            <l>Of <hi>killing Deaths,</hi> mixt with his <hi>quickning Beams:</hi>
+            </l>
+            <l>This City, <hi>Mighty Sir,</hi> he'll guard with care,</l>
+            <l>Which <hi>Love</hi> and <hi>Intereſt</hi> command him ſpare:</l>
+            <l>Or if he ſhould not, when you come, his <hi>Bow</hi>
+            </l>
+            <l>He'll quit at the leaſt <hi>bending</hi> of Your <hi>Brow.</hi>
+            </l>
+            <l>But We ſhall bleſs the <hi>Plague</hi>'s <hi>kind ſlame,</hi> that is</l>
+            <l>More beneficial to our Muſe then <hi>his;</hi>
+            </l>
+            <l>And while Your <hi>Majeſty, (Great Sir) ſhines</hi> here,</l>
+            <l>None ſhall a <hi>ſecond Plague of Athens</hi> fear.</l>
+            <l>The <hi>Tyrant fiend</hi> that chief Command does bear,</l>
+            <l>And ſwayes the Scepter of <hi>Infected Air,</hi>
+            </l>
+            <l>Shall find the utmoſt of his power too weak,</l>
+            <l>Into the <hi>Circle</hi> of Your <hi>Crown</hi> to break;</l>
+            <l>While to You <hi>Sir,</hi> our <hi>Laurels</hi> ſhade ſhall be,</l>
+            <l>(We hope) as Friendly as the <hi>Royal Tree.</hi>
+            </l>
+            <l>And like that <hi>Tree,</hi> which a thick ſwarm of Ants,</l>
+            <l>Converted once into Inhabitants;</l>
+            <l>And with ſtout <hi>Myrmidons Aegina</hi> fill'd,</l>
+            <l>Whoſe Natives a <hi>quick Plague</hi> had lately kill'd,</l>
+            <l>Our <hi>Laurel</hi> ſhall (proving the Fable true)</l>
+            <l>
+               <hi>Re-People England</hi> in <hi>Preſerving You.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43841:3"/>
+            <!-- PDF PAGE 33 -->
+         </div>
+      </body>
+   </text>
+</TEI>
